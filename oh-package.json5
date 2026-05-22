@@ -1,0 +1,8 @@
+{
+  "modelVersion": "6.0.0",
+  "description": "Mini Podcast Player wearable codelab built around BasicServicesKit common events.",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
